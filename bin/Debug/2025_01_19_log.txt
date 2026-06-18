@@ -1,0 +1,491 @@
+[2025-01-19 00:38:47] - Date 2025.01.19  Time 00:23:15  Gross    499.8 g  Tare      0.0 g  Net    499.8 g
+
+
+
+
+[2025-01-19 00:38:51] - Date 2025.01.19  Time 00:23:19  Gross    499.8 g  Tare      0.0 g  Net    499.8 g
+
+
+
+
+[2025-01-19 00:38:57] - Date 2025.01.19  Time 00:23:25  Gross    499.6 g  Tare      0.0 g  Net    499.6 g
+
+
+
+
+[2025-01-19 00:39:01] - Date 2025.01.19  Time 00:23:29  Gross    499.6 g  Tare      0.0 g  Net    499.6 g
+
+
+
+
+[2025-01-19 00:39:05] - Date 2025.01.19  Time 00:23:33  Gross    499.6 g  Tare      0.0 g  Net    499.6 g
+
+
+
+
+[2025-01-19 00:42:30] - OK
+[2025-01-19 00:43:30] - 光源打开成功
+[2025-01-19 00:43:47] - 光源关闭成功
+[2025-01-19 00:43:49] - 光源打开成功
+[2025-01-19 00:43:59] - 光源关闭成功
+[2025-01-19 00:53:35] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 00:53:35] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 01:42:29] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 01:42:29] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 01:44:52] - 192.168.1.27
+[2025-01-19 01:55:11] - OK
+[2025-01-19 01:57:05] - 光源打开成功
+[2025-01-19 01:57:27] - 光源关闭成功
+[2025-01-19 01:57:33] - 光源打开成功
+[2025-01-19 01:57:42] - 光源关闭成功
+[2025-01-19 02:49:03] - OK
+[2025-01-19 02:50:43] - 光源打开成功
+[2025-01-19 02:50:55] - 光源关闭成功
+[2025-01-19 02:50:56] - 光源打开成功
+[2025-01-19 02:51:06] - 光源关闭成功
+[2025-01-19 02:55:11] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 02:55:11] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 03:49:03] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 03:49:03] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 03:49:22] - OK
+[2025-01-19 03:51:03] - 光源打开成功
+[2025-01-19 03:51:24] - 光源关闭成功
+[2025-01-19 03:51:30] - 光源打开成功
+[2025-01-19 03:51:44] - 光源关闭成功
+[2025-01-19 03:51:45] - 光源打开成功
+[2025-01-19 03:51:51] - 光源关闭成功
+[2025-01-19 03:51:52] - 光源打开成功
+[2025-01-19 03:52:01] - 光源关闭成功
+[2025-01-19 04:49:22] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 04:49:22] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 04:52:42] - OK
+[2025-01-19 04:54:21] - 光源打开成功
+[2025-01-19 04:54:33] - 光源关闭成功
+[2025-01-19 04:54:34] - 光源打开成功
+[2025-01-19 04:54:40] - 光源关闭成功
+[2025-01-19 04:54:42] - 光源打开成功
+[2025-01-19 04:54:50] - 光源关闭成功
+[2025-01-19 05:52:41] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 05:52:41] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 05:55:44] - 192.168.1.27
+[2025-01-19 06:02:53] - OK
+[2025-01-19 06:04:33] - 光源打开成功
+[2025-01-19 06:04:49] - 光源关闭成功
+[2025-01-19 06:04:51] - 光源打开成功
+[2025-01-19 06:05:02] - 光源关闭成功
+[2025-01-19 06:05:03] - 光源打开成功
+[2025-01-19 06:05:13] - 光源关闭成功
+[2025-01-19 07:02:53] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 07:02:53] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 07:06:04] - 192.168.1.27
+[2025-01-19 07:12:09] - OK
+[2025-01-19 07:13:01] - 光源打开成功
+[2025-01-19 07:13:13] - 光源关闭成功
+[2025-01-19 07:13:14] - 光源打开成功
+[2025-01-19 07:13:23] - 光源关闭成功
+[2025-01-19 07:42:32] - Date 2025.01.19  Time 07:26:59  Gross    499.6 g  Tare      0.0 g  Net    499.6 g
+
+
+
+
+[2025-01-19 07:43:05] - Date 2025.01.19  Time 07:27:32  Gross    499.6 g  Tare      0.0 g  Net    499.6 g
+
+
+
+
+[2025-01-19 07:43:10] - Date 2025.01.19  Time 07:27:37  Gross    499.6 g  Tare      0.0 g  Net    499.6 g
+
+
+
+
+[2025-01-19 07:43:15] - Date 2025.01.19  Time 07:27:42  Gross    499.6 g  Tare      0.0 g  Net    499.6 g
+
+
+
+
+[2025-01-19 07:43:19] - Date 2025.01.19  Time 07:27:45  Gross    499.6 g  Tare      0.0 g  Net    499.6 g
+
+
+
+
+[2025-01-19 07:43:50] - OK
+[2025-01-19 07:44:28] - 光源打开成功
+[2025-01-19 07:44:38] - 光源关闭成功
+[2025-01-19 07:44:38] - 光源打开成功
+[2025-01-19 07:44:44] - 光源关闭成功
+[2025-01-19 07:45:05] - 光源打开成功
+[2025-01-19 07:45:10] - 光源关闭成功
+[2025-01-19 07:45:12] - 光源打开成功
+[2025-01-19 07:45:17] - 光源关闭成功
+[2025-01-19 07:45:18] - 光源打开成功
+[2025-01-19 07:45:26] - 光源关闭成功
+[2025-01-19 07:45:27] - 光源打开成功
+[2025-01-19 07:45:32] - 光源关闭成功
+[2025-01-19 07:45:32] - 光源打开成功
+[2025-01-19 07:45:38] - 光源关闭成功
+[2025-01-19 07:45:38] - 光源打开成功
+[2025-01-19 07:45:45] - 光源关闭成功
+[2025-01-19 07:45:46] - 光源打开成功
+[2025-01-19 07:45:51] - 光源关闭成功
+[2025-01-19 08:12:09] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 08:12:09] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 08:43:47] - OK
+[2025-01-19 08:43:50] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 08:43:50] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 08:45:55] - 光源打开成功
+[2025-01-19 08:46:07] - 光源关闭成功
+[2025-01-19 08:46:08] - 光源打开成功
+[2025-01-19 08:46:14] - 光源关闭成功
+[2025-01-19 09:28:54] - OK
+[2025-01-19 09:43:46] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 09:43:46] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 09:47:02] - 192.168.1.27
+[2025-01-19 09:55:47] - 光源打开成功
+[2025-01-19 09:55:59] - 光源关闭成功
+[2025-01-19 09:55:59] - 光源打开成功
+[2025-01-19 09:56:06] - 光源关闭成功
+[2025-01-19 10:28:53] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 10:28:53] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 10:41:15] - OK
+[2025-01-19 10:41:52] - 光源打开成功
+[2025-01-19 10:42:06] - 光源关闭成功
+[2025-01-19 10:42:07] - 光源打开成功
+[2025-01-19 10:42:15] - 光源关闭成功
+[2025-01-19 11:41:14] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 11:41:14] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 11:44:42] - 192.168.1.27
+[2025-01-19 11:48:30] - OK
+[2025-01-19 11:48:42] - 光源打开成功
+[2025-01-19 11:49:21] - 光源关闭成功
+[2025-01-19 11:49:22] - 光源打开成功
+[2025-01-19 11:49:27] - 光源关闭成功
+[2025-01-19 11:49:29] - 光源打开成功
+[2025-01-19 11:49:35] - 光源关闭成功
+[2025-01-19 12:42:45] - Date 2025.01.19  Time 12:27:12  Gross    500.0 g  Tare      0.0 g  Net    500.0 g
+
+
+
+
+[2025-01-19 12:42:50] - Date 2025.01.19  Time 12:27:16  Gross    499.8 g  Tare      0.0 g  Net    499.8 g
+
+
+
+
+[2025-01-19 12:42:55] - Date 2025.01.19  Time 12:27:21  Gross    499.8 g  Tare      0.0 g  Net    499.8 g
+
+
+
+
+[2025-01-19 12:42:59] - Date 2025.01.19  Time 12:27:25  Gross    499.8 g  Tare      0.0 g  Net    499.8 g
+
+
+
+
+[2025-01-19 12:43:04] - Date 2025.01.19  Time 12:27:30  Gross    499.8 g  Tare      0.0 g  Net    499.8 g
+
+
+
+
+[2025-01-19 12:43:17] - OK
+[2025-01-19 12:43:55] - 光源打开成功
+[2025-01-19 12:44:10] - 光源关闭成功
+[2025-01-19 12:44:11] - 光源打开成功
+[2025-01-19 12:44:19] - 光源关闭成功
+[2025-01-19 12:48:30] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 12:48:30] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 13:39:30] - OK
+[2025-01-19 13:40:48] - 光源打开成功
+[2025-01-19 13:41:02] - 光源关闭成功
+[2025-01-19 13:41:13] - 光源打开成功
+[2025-01-19 13:41:20] - 光源关闭成功
+[2025-01-19 13:43:17] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 13:43:17] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 14:39:29] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 14:39:29] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 14:42:07] - OK
+[2025-01-19 14:42:12] - 192.168.1.27
+[2025-01-19 14:42:19] - 光源打开成功
+[2025-01-19 14:42:38] - 光源关闭成功
+[2025-01-19 14:42:40] - 光源打开成功
+[2025-01-19 14:42:54] - 光源关闭成功
+[2025-01-19 14:42:55] - 光源打开成功
+[2025-01-19 14:43:02] - 光源关闭成功
+[2025-01-19 15:42:06] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 15:42:06] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 15:44:57] - 192.168.1.27
+[2025-01-19 15:45:47] - OK
+[2025-01-19 15:46:04] - 光源打开成功
+[2025-01-19 15:46:20] - 光源关闭成功
+[2025-01-19 15:46:21] - 光源打开成功
+[2025-01-19 15:46:28] - 光源关闭成功
+[2025-01-19 15:46:28] - 光源打开成功
+[2025-01-19 15:46:35] - 光源关闭成功
+[2025-01-19 15:46:36] - 光源打开成功
+[2025-01-19 15:46:41] - 光源关闭成功
+[2025-01-19 15:46:43] - 光源打开成功
+[2025-01-19 15:46:52] - 光源关闭成功
+[2025-01-19 15:47:00] - 光源打开成功
+[2025-01-19 15:47:11] - 光源关闭成功
+[2025-01-19 15:47:12] - 光源打开成功
+[2025-01-19 15:47:18] - 光源关闭成功
+[2025-01-19 16:37:47] - OK
+[2025-01-19 16:39:08] - 光源打开成功
+[2025-01-19 16:39:20] - 光源关闭成功
+[2025-01-19 16:39:21] - 光源打开成功
+[2025-01-19 16:39:29] - 光源关闭成功
+[2025-01-19 16:45:47] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 16:45:47] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 17:37:47] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 17:37:47] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 17:39:34] - OK
+[2025-01-19 17:40:26] - 光源打开成功
+[2025-01-19 17:40:42] - 光源关闭成功
+[2025-01-19 17:40:43] - 光源打开成功
+[2025-01-19 17:40:48] - 光源关闭成功
+[2025-01-19 17:40:49] - 光源打开成功
+[2025-01-19 17:40:51] - 192.168.1.27
+[2025-01-19 17:40:55] - 光源关闭成功
+[2025-01-19 17:40:56] - 光源打开成功
+[2025-01-19 17:41:03] - 光源关闭成功
+[2025-01-19 18:39:34] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 18:39:34] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 18:41:52] - OK
+[2025-01-19 18:42:25] - 光源关闭成功
+[2025-01-19 18:42:32] - 监听成功
+[2025-01-19 18:42:32] - 192.168.1.27
+[2025-01-19 18:42:37] - OK
+[2025-01-19 18:42:49] - 光源打开成功
+[2025-01-19 18:43:05] - 光源关闭成功
+[2025-01-19 18:43:06] - 光源打开成功
+[2025-01-19 18:43:12] - 光源关闭成功
+[2025-01-19 19:08:37] - OK
+[2025-01-19 19:08:52] - 光源打开成功
+[2025-01-19 19:08:59] - 光源关闭成功
+[2025-01-19 19:09:00] - 光源打开成功
+[2025-01-19 19:09:05] - 光源关闭成功
+[2025-01-19 19:34:55] - Date 2025.01.19  Time 19:19:20  Gross    499.8 g  Tare      0.0 g  Net    499.8 g
+
+
+
+
+[2025-01-19 19:34:59] - Date 2025.01.19  Time 19:19:24  Gross    499.8 g  Tare      0.0 g  Net    499.8 g
+
+
+
+
+[2025-01-19 19:35:02] - Date 2025.01.19  Time 19:19:28  Gross    499.8 g  Tare      0.0 g  Net    499.8 g
+
+
+
+
+[2025-01-19 19:35:06] - Date 2025.01.19  Time 19:19:31  Gross    499.6 g  Tare      0.0 g  Net    499.6 g
+
+
+
+
+[2025-01-19 19:35:10] - Date 2025.01.19  Time 19:19:35  Gross    499.6 g  Tare      0.0 g  Net    499.6 g
+
+
+
+
+[2025-01-19 19:35:22] - OK
+[2025-01-19 19:40:03] - 光源打开成功
+[2025-01-19 19:40:10] - 光源关闭成功
+[2025-01-19 19:40:17] - 光源打开成功
+[2025-01-19 19:40:22] - 光源关闭成功
+[2025-01-19 19:42:37] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 19:42:37] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 19:57:00] - OK
+[2025-01-19 20:00:43] - 光源打开成功
+[2025-01-19 20:00:49] - 光源关闭成功
+[2025-01-19 20:00:56] - 光源打开成功
+[2025-01-19 20:01:00] - 光源关闭成功
+[2025-01-19 20:08:37] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 20:08:37] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 20:35:21] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 20:35:21] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 20:40:50] - OK
+[2025-01-19 20:46:02] - 光源打开成功
+[2025-01-19 20:46:11] - 光源关闭成功
+[2025-01-19 20:46:48] - 光源打开成功
+[2025-01-19 20:46:53] - 光源关闭成功
+[2025-01-19 20:57:00] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 20:57:00] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 21:40:50] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 21:40:50] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 21:45:38] - OK
+[2025-01-19 21:47:33] - 光源打开成功
+[2025-01-19 21:47:41] - 光源关闭成功
+[2025-01-19 21:47:58] - 光源打开成功
+[2025-01-19 21:48:03] - 光源关闭成功
+[2025-01-19 22:41:43] - OK
+[2025-01-19 22:45:27] - 光源打开成功
+[2025-01-19 22:45:37] - 光源关闭成功
+[2025-01-19 22:45:37] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 22:45:37] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 22:45:45] - 光源打开成功
+[2025-01-19 22:45:49] - 光源关闭成功
+[2025-01-19 23:41:43] - B [报错]系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+[2025-01-19 23:41:43] - 错误行：   在 NAudio.MediaFoundation.MediaFoundationInterop.MFCreateSourceReaderFromURL(String pwszURL, IMFAttributes pAttributes, IMFSourceReader& ppSourceReader)
+   在 NAudio.Wave.MediaFoundationReader.CreateReader(MediaFoundationReaderSettings settings)
+   在 NAudio.Wave.MediaFoundationReader.Init(MediaFoundationReaderSettings initialSettings)
+   在 NAudio.Wave.MediaFoundationReader..ctor(String file)
+   在 NAudio.Wave.AudioFileReader.CreateReaderStream(String fileName)
+   在 NAudio.Wave.AudioFileReader..ctor(String fileName)
+   在 WindowsFormsApp5.Form1.music_play(Object o) 位置 D:\SP_CRQS检测系统 B0305\Form1.cs:行号 1411
+[2025-01-19 23:45:47] - OK
+[2025-01-19 23:46:20] - 192.168.1.27
+[2025-01-19 23:46:55] - 光源打开成功
+[2025-01-19 23:47:03] - 光源关闭成功
+[2025-01-19 23:47:09] - 光源打开成功
+[2025-01-19 23:47:14] - 光源关闭成功
